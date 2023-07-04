@@ -1,0 +1,6 @@
+# FOLDERS
+/node_modules
+/build
+
+#FILES
+package-lock.json

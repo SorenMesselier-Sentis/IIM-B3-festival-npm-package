@@ -1,0 +1,15 @@
+{
+  "name": "iim-b3-festival-npm-package",
+  "version": "1.0.0",
+  "description": "Random package to fetch some festivals",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.44.0",
+    "jest": "^29.5.0"
+  }
+}
